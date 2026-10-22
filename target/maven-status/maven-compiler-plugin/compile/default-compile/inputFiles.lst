@@ -1,0 +1,12 @@
+/home/kogane/Projetos/Java/demo/src/main/java/com/example/Main.java
+/home/kogane/Projetos/Java/demo/src/main/java/com/example/forum/domain/Category.java
+/home/kogane/Projetos/Java/demo/src/main/java/com/example/forum/domain/ForumThread.java
+/home/kogane/Projetos/Java/demo/src/main/java/com/example/forum/domain/Reply.java
+/home/kogane/Projetos/Java/demo/src/main/java/com/example/forum/domain/User.java
+/home/kogane/Projetos/Java/demo/src/main/java/com/example/forum/repository/InMemoryUserRepository.java
+/home/kogane/Projetos/Java/demo/src/main/java/com/example/forum/repository/ReplyRepository.java
+/home/kogane/Projetos/Java/demo/src/main/java/com/example/forum/repository/ThreadRepository.java
+/home/kogane/Projetos/Java/demo/src/main/java/com/example/forum/repository/UserRepository.java
+/home/kogane/Projetos/Java/demo/src/main/java/com/example/forum/service/AuthService.java
+/home/kogane/Projetos/Java/demo/src/main/java/com/example/forum/service/ReplyService.java
+/home/kogane/Projetos/Java/demo/src/main/java/com/example/forum/service/ThreadService.java
